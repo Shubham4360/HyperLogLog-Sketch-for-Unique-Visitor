@@ -1,0 +1,16 @@
+requests==2.32.3
+kafka-python==2.0.2
+pyspark==3.5.1
+streamlit==1.37.0
+plotly==5.22.0
+pandas==2.2.2
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+datasketch==1.6.5
+mmh3==4.1.0
+numpy==1.26.4
+pyarrow==17.0.0
+loguru==0.7.2
+rich==13.7.1
+python-dotenv==1.0.1
+
